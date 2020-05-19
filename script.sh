@@ -1,15 +1,33 @@
 #!/usr/bin/env bash
 
+# Colors
+NC="\033[0m"
+GREEN="\033[1;32m"
+YELLOW="\033[1;33m"
+
 # Installing Hugo
+echo ""
+echo -e "${YELLOW}Installing Hugo Site Generator${NC}"
 curl -sLo hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.71.0/hugo_0.71.0_Linux-64bit.deb
 sudo dpkg -i hugo.deb
 rm -rf hugo.deb
-
+echo ""
+echo -e "${YELLOW}Done!${NC}"
 # Cloning modified theme
+echo ""
+echo -e "${YELLOW}Cloning modified version of Hugo Theme${NC}"
 git clone https://github.com/crazyuploader/modified-hugo-theme themes/modified-hugo-theme
+echo ""
+echo "${GREEN}Done!${NC}"
 
 # Building site
+echo ""
+echo -e "${YELLOW}Getting current build copy of the site${NC}"
 git clone https://"${GITHUB_REF}" -b master ~/public
+echo ""
+echo -e "${GREEN}Done!${NC}"
+echo ""
+echo -e "${YELLOW}Building site with Hugo${NC}"
 hugo -d ~/public
 cd ~/public || exit 1
 
@@ -34,6 +52,8 @@ echo ""
 git status
 git add .
 git commit -m "Travis CI Auto Site Builder"
+echo ""
+echo -e "${YELLOW}Pushing built site to GitHub${NC}"
 git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GITHUB_REF}" HEAD:master
 echo ""
-echo "Done"
+echo -e "${GREEN}Done${NC}"

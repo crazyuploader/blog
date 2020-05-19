@@ -17,8 +17,7 @@ function GET_SCHOOL() {
     unzip -d temp/ school.zip
     rm -rf school.zip
     cd temp || exit 1
-    mv school-master school
-    cd ..
+    mv school-master/ school/
     mv school/ ~/public
     cd ~/public || exit 1
 }

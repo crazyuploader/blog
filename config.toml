@@ -6,7 +6,7 @@ googleAnalytics = "UA-167086893-1"
 
 [params]
     author = "Jugal Kishore"
-    homeSubtitle = ""
+    homeSubtitle = "Setting up base camp on Mars! 📡"
     dateform        = "Jan 2, 2006"
     dateformShort   = "Jan 2"
     dateformNum     = "2006-01-02"

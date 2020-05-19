@@ -12,13 +12,13 @@ curl -sLo hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.71.0/hu
 sudo dpkg -i hugo.deb
 rm -rf hugo.deb
 echo ""
-echo -e "${YELLOW}Done!${NC}"
+echo -e "${GREEN}Done!${NC}"
 # Cloning modified theme
 echo ""
 echo -e "${YELLOW}Cloning modified version of Hugo Theme${NC}"
 git clone https://github.com/crazyuploader/modified-hugo-theme themes/modified-hugo-theme
 echo ""
-echo "${GREEN}Done!${NC}"
+echo -e "${GREEN}Done!${NC}"
 
 # Building site
 echo ""

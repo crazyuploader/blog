@@ -15,7 +15,7 @@ function GET_SCHOOL() {
     rm -rf school/
     cd /tmp || exit 1
     curl -sLo school.zip https://github.com/crazyuploader/school/archive/master.zip
-    unzip -d temp/ school.zip
+    unzip -d temp/ school.zip 1> /dev/null
     rm -rf school.zip
     cd temp || exit 1
     mv school-master/ school/
@@ -28,6 +28,7 @@ git config user.email "49350241+crazyuploader@users.noreply.github.com"
 git config user.name "crazyuploader"
 GET_SCHOOL
 echo ""
+git status
 git add .
 git commit -m "Travis CI Auto Site Builder"
 git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GITHUB_REF}" HEAD:master

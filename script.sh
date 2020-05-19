@@ -14,6 +14,8 @@ cd ~/public
 git config user.email "49350241+crazyuploader@users.noreply.github.com"
 git config user.name "crazyuploader"
 echo ""
+git add .
+git commit -m "Travis CI Auto Site Builder"
 git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GITHUB_REF}" HEAD:master
 echo ""
 echo "Done"

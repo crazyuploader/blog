@@ -1,8 +1,6 @@
----
-title: "About me"
-date: 2020-05-19T13:05:49+05:30
-draft: true
----
++++
+title = "About Me"
++++
 
 I am Jugal Kishore, 21 years old, self-proclaimed android developer. I know C, C++, Python, Bash and Java (learning). Currently pursuing BCA from Dr. MPS College of Institutions Agra, open minded and a funny guy.
 

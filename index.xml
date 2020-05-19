@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jugal Kishore</title>
+    <link>https://crazyuploader.github.io/</link>
+    <description>Recent content on Jugal Kishore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Junglee Labs</copyright>
+    <lastBuildDate>Tue, 19 May 2020 13:05:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://crazyuploader.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://crazyuploader.github.io/about/</link>
+      <pubDate>Tue, 19 May 2020 13:05:49 +0530</pubDate>
+      
+      <guid>https://crazyuploader.github.io/about/</guid>
+      <description>WIP</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://crazyuploader.github.io/posts/first-post/</link>
+      <pubDate>Tue, 04 Feb 2020 14:06:52 +0530</pubDate>
+      
+      <guid>https://crazyuploader.github.io/posts/first-post/</guid>
+      <description>First Post ;p</description>
+    </item>
+    
+  </channel>
+</rss>

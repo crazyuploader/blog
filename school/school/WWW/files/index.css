@@ -1,0 +1,46 @@
+h3 {
+	padding-top: 10px;
+}
+nav {
+	background: url(nav_bg.png) no-repeat;
+	float: left;
+	padding-top: 64px;
+	padding-bottom: 56px;
+	width: 200px;
+	text-align: left;
+	color: green;
+}
+nav h3 {
+	color: #333;
+	font-weight: bolder;
+	font-size: 1.3em;
+	margin: 0 15px;
+	padding: 5px;
+	border-bottom: 4px double #85a32f;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #1ea0cc;
+	background-image: url(body.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+a {
+	text-decoration: none;
+	color: red;
+}
+a:hover {
+	color: green;
+}
+#body_wrapper {
+	width: 100%;
+	height: 1000px;
+	background: url(4.jpg) top center no-repeat;
+}
+#wrapper {
+	width: 1320px;
+	padding: 0 10px;
+	margin: 0 auto;
+	background: url(4.jpg) top center no-repeat;
+}

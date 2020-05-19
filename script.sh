@@ -12,6 +12,7 @@ cd ~/public || exit 1
 
 # Custom Function to get school website project
 function GET_SCHOOL() {
+    rm -rf school/
     cd /tmp || exit 1
     curl -sLo school.zip https://github.com/crazyuploader/school/archive/master.zip
     unzip -d temp/ school.zip

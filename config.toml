@@ -1,0 +1,47 @@
+baseURL = "https://crazyuploader.github.io/"
+languageCode = "en-us"
+title = "Jugal Kishore"
+theme = "hello-friend-ng"
+googleAnalytics = "UA-167086893-1"
+
+[params]
+    author = "Jugal Kishore"
+    homeSubtitle = ""
+    dateform        = "Jan 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02 15:04 -0700"
+    contentTypeName = "posts"
+    defaultTheme = "dark"
+    [params.logo]
+        logoText     = "$ crazyuploader"
+        logoHomeLink = "https://crazyuploader.github.io/"
+[languages]
+    [languages.en]
+        subtitle  = ""
+        weight    = 1
+        copyright = 'Junglee Labs'
+[menu]
+    [[menu.main]]
+        name   = "posts"
+        weight = 2
+        url    = "/posts"
+    [[menu.main]]
+        name   = "about me"
+        weight = 1
+        url    = "/about"
+[[params.social]]
+    name = "github"
+    url  = "https://github.com/crazyuploader"
+[[params.social]]
+    name = "docker"
+    url  = "https://hub.docker.com/u/crazyuploader"
+[[params.social]]
+    name = "facebook"
+    url  = "https://www.facebook.com/profile.php?id=100051213879144"
+[[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/crazyjugal"
+[[params.social]]
+    name = "twitter"
+    url  = "https://www.twitter.com/crazyjugal"

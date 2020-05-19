@@ -30,6 +30,10 @@ googleAnalytics = "UA-167086893-1"
         name   = "about me"
         weight = 1
         url    = "/about"
+    [[menu.main]]
+        name   = "school project"
+        weight = 1
+        url    = "/school"
 [[params.social]]
     name = "github"
     url  = "https://github.com/crazyuploader"
@@ -38,10 +42,13 @@ googleAnalytics = "UA-167086893-1"
     url  = "https://hub.docker.com/u/crazyuploader"
 [[params.social]]
     name = "facebook"
-    url  = "https://www.facebook.com/profile.php?id=100051213879144"
+    url  = "https://facebook.com/profile.php?id=100051213879144"
 [[params.social]]
     name = "instagram"
     url  = "https://instagram.com/crazyjugal"
 [[params.social]]
     name = "twitter"
-    url  = "https://www.twitter.com/crazyjugal"
+    url  = "https://twitter.com/crazyjugal"
+[[params.social]]
+    name = "telegram"
+    url  = "https://t.me/crazyuploader"

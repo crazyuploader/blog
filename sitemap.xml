@@ -3,31 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://crazyuploader.github.io/about/</loc>
-    <lastmod>2020-05-19T13:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://crazyuploader.github.io/</loc>
-    <lastmod>2020-05-19T13:05:49+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://crazyuploader.github.io/posts/first-post/</loc>
+    <loc>https://jugalkishore.me/posts/first-post/</loc>
     <lastmod>2020-02-04T14:06:52+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://crazyuploader.github.io/posts/</loc>
+    <loc>https://jugalkishore.me/</loc>
     <lastmod>2020-02-04T14:06:52+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://crazyuploader.github.io/categories/</loc>
+    <loc>https://jugalkishore.me/posts/</loc>
+    <lastmod>2020-02-04T14:06:52+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://crazyuploader.github.io/tags/</loc>
+    <loc>https://jugalkishore.me/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jugalkishore.me/tags/</loc>
   </url>
   
 </urlset>

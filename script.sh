@@ -5,6 +5,9 @@ curl -sLo hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.71.0/hu
 sudo dpkg -i hugo.deb
 rm -rf hugo.deb
 
+# Cloning modified theme
+git clone https://github.com/crazyuploader/modified-hugo-theme themes/modified-hugo-theme
+
 # Building site
 git clone https://"${GITHUB_REF}" -b master ~/public
 hugo -d ~/public

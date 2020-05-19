@@ -11,7 +11,6 @@ hugo -d ~/public
 cd ~/public
 
 # Pushing built to GitHub
-echo ""
 git config user.email "49350241+crazyuploader@users.noreply.github.com"
 git config user.name "crazyuploader"
 echo ""

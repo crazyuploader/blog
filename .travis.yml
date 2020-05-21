@@ -1,7 +1,0 @@
-os: linux
-dist: bionic
-branches:
-  only: source
-language: bash
-script: |
-  ./script.sh

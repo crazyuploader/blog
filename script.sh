@@ -13,6 +13,7 @@ sudo dpkg -i hugo.deb
 rm -rf hugo.deb
 echo ""
 echo -e "${GREEN}Done!${NC}"
+
 # Cloning modified theme
 echo ""
 echo -e "${YELLOW}Cloning modified version of Hugo Theme${NC}"

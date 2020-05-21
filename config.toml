@@ -23,8 +23,12 @@ googleAnalytics = "UA-167086893-1"
         copyright = 'Junglee Labs'
 [menu]
     [[menu.main]]
+        name   = "contact"
+        weight = 4
+        url    = "/contact"
+    [[menu.main]]
         name   = "posts"
-        weight = 2
+        weight = 3
         url    = "/posts"
     [[menu.main]]
         name   = "about me"
@@ -32,7 +36,7 @@ googleAnalytics = "UA-167086893-1"
         url    = "/about"
     [[menu.main]]
         name   = "school project"
-        weight = 1
+        weight = 2
         url    = "/school"
 [[params.social]]
     name = "github"

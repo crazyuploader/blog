@@ -45,6 +45,9 @@ googleAnalytics = "UA-167086893-1"
     name = "docker"
     url  = "https://hub.docker.com/u/crazyuploader"
 [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/crazyuploader/"
+[[params.social]]
     name = "facebook"
     url  = "https://facebook.com/profile.php?id=100051213879144"
 [[params.social]]

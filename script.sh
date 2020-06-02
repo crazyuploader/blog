@@ -52,7 +52,7 @@ GET_SCHOOL
 echo ""
 git status
 git add .
-git commit -m "Travis CI Auto Site Builder"
+git commit -m "CI Auto Site Builder"
 echo ""
 echo -e "${YELLOW}Pushing built site to GitHub${NC}"
 git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GITHUB_REF}" HEAD:master

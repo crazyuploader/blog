@@ -2,7 +2,7 @@
 title = "About Me"
 +++
 
-I am Jugal Kishore, 21 years old, self-proclaimed Android Developer. I am proficient in C, C++, Bash, and currently learning Python, Java. Currently pursuing BCA from Dr. MPS College of Institutions Agra, open minded, passionate and a crazy guy. I love to learn new things and technology all the time with passion. My work for now basically is scattered between various languages, but all of it can be found on my [GitHub](https://github.com/crazyuploader) profile.
+I am Jugal Kishore, 21 years old, self-proclaimed Android Developer. I am proficient in C, C++, Bash, and currently learning Python, Java. Currently pursuing BCA from Dr. MPS College of Institutions Agra, open minded, passionate and a crazy guy. I love to learn new things and technology all the time with passion. My work for now basically is scattered between various languages, but all of it can be found on my [GitHub](https://github.com/crazyuploader) profile. My latest résumé can be found [here](https://resume.jugalkishore.me).
 
 You can find me on [Telegram](https://t.me/crazyuploader) as it is my primary social platform. 
 

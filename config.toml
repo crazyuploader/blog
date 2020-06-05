@@ -51,12 +51,6 @@ googleAnalytics = "UA-167086893-1"
     name = "linkedin"
     url  = "https://www.linkedin.com/in/crazyuploader/"
 [[params.social]]
-    name = "facebook"
-    url  = "https://facebook.com/profile.php?id=100051213879144"
-[[params.social]]
-    name = "instagram"
-    url  = "https://instagram.com/crazyjugal"
-[[params.social]]
     name = "twitter"
     url  = "https://twitter.com/crazyjugal"
 [[params.social]]

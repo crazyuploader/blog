@@ -1,5 +1,10 @@
 +++
-title = "Contact Me"
+title = "Contacting me"
 +++
 
-WIP
+I am on most of the social platforms, so feel free to ping me anywhere!
+
+* [Telegram](https://t.me/crazyuploader)
+* [Twitter](https://twitter.com/crazyjugal)
+* [Facebook](https://facebook.com/profile.php?id=100051213879144)
+* [Instagram](https://instagram.com/crazyjugal)

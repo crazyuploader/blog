@@ -49,7 +49,7 @@ googleAnalytics = "UA-167086893-1"
     url  = "https://dev.to/crazyuploader"
 [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/crazyuploader/"
+    url  = "https://linkedin.com/in/crazyuploader/"
 [[params.social]]
     name = "facebook"
     url  = "https://facebook.com/profile.php?id=100051213879144"

@@ -5,10 +5,13 @@ NC="\033[0m"
 GREEN="\033[1;32m"
 YELLOW="\033[1;33m"
 
+# Variables
+HUGO_VERSION="0.74.2"
+
 # Installing Hugo
 echo ""
 echo -e "${YELLOW}Installing Hugo Site Generator${NC}"
-curl -sLo hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.71.0/hugo_0.71.0_Linux-64bit.deb
+curl -sLo hugo.deb https://github.com/gohugoio/hugo/releases/download/v"${HUGO_VERSION"/hugo_"${HUGO_VERSION}"_Linux-64bit.deb
 sudo dpkg -i hugo.deb
 rm -rf hugo.deb
 echo ""

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jugal Kishore</title>
-    <link>https://jugalkishore.me/</link>
+    <link>https://crazyuploader.github.io/</link>
     <description>Recent content on Jugal Kishore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Junglee Labs</copyright>
     <lastBuildDate>Tue, 04 Feb 2020 14:06:52 +0530</lastBuildDate>
     
-	<atom:link href="https://jugalkishore.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crazyuploader.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://jugalkishore.me/posts/first-post/</link>
+      <link>https://crazyuploader.github.io/posts/first-post/</link>
       <pubDate>Tue, 04 Feb 2020 14:06:52 +0530</pubDate>
       
-      <guid>https://jugalkishore.me/posts/first-post/</guid>
+      <guid>https://crazyuploader.github.io/posts/first-post/</guid>
       <description>First Post ;p</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://jugalkishore.me/about/</link>
+      <link>https://crazyuploader.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jugalkishore.me/about/</guid>
+      <guid>https://crazyuploader.github.io/about/</guid>
       <description>I am Jugal Kishore, 21 years old, self-proclaimed Android Developer. I am proficient in C, C++, Bash, and currently learning Python, Java. Currently pursuing BCA from Dr. MPS College of Institutions Agra, open minded, passionate and a crazy guy. I love to learn new things and technology all the time with passion. My work for now basically is scattered between various languages, but all of it can be found on my GitHub profile.</description>
     </item>
     
     <item>
       <title>Contacting me</title>
-      <link>https://jugalkishore.me/contact/</link>
+      <link>https://crazyuploader.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jugalkishore.me/contact/</guid>
+      <guid>https://crazyuploader.github.io/contact/</guid>
       <description>I am on most of the social platforms, so feel free to ping me anywhere!
  Telegram Twitter Facebook Instagram Sourcerer  Also you can follow me on GitHub, or email me at jungle@jugalkishore.meif you&amp;rsquo;d like.</description>
     </item>

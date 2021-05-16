@@ -1,4 +1,4 @@
-baseURL = "https://jugalkishore.me/"
+baseURL = "https://crazyuploader.github.io/"
 languageCode = "en-us"
 title = "Jugal Kishore"
 theme = "modified-hugo-theme"
@@ -15,7 +15,7 @@ googleAnalytics = "UA-167086893-1"
     defaultTheme = "dark"
     [params.logo]
         logoText     = "$ crazyuploader"
-        logoHomeLink = "https://jugalkishore.me/"
+        logoHomeLink = "https://crazyuploader.github.io/"
 [languages]
     [languages.en]
         subtitle  = ""

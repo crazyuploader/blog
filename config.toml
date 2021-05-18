@@ -25,7 +25,7 @@ googleAnalytics = "UA-167086893-1"
     [[menu.main]]
         name   = "TIL"
         weight = 5
-        url    = "https://crazyuploader.github.io/"
+        url    = "https://crazyuploader.github.io/TIL"
     [[menu.main]]
         name   = "contact"
         weight = 4

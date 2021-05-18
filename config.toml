@@ -23,6 +23,10 @@ googleAnalytics = "UA-167086893-1"
         copyright = 'Junglee Labs'
 [menu]
     [[menu.main]]
+        name   = "TIL"
+        weight = 5
+        url    = "/https://crazyuploader.github.io/"
+    [[menu.main]]
         name   = "contact"
         weight = 4
         url    = "/contact"

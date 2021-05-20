@@ -5,7 +5,7 @@ title = "Contacting me"
 I am on most of the social platforms, so feel free to ping me anywhere!
 
 - [Telegram](https://t.me/crazyuploader)
-- [Twitter](https://twitter.com/marsaquariusrye)
+- [Twitter](https://twitter.com/jugalkishore839)
 - [Facebook](https://facebook.com/profile.php?id=100051213879144)
 - [Sourcerer](https://sourcerer.io/crazyuploader)
 

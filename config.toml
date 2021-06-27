@@ -1,4 +1,4 @@
-baseURL = "https://crazyuploader.github.io/"
+baseURL = "https://blog.devjugal.com/"
 languageCode = "en-us"
 title = "Jugal Kishore"
 theme = "modified-hugo-theme"
@@ -15,7 +15,7 @@ googleAnalytics = "UA-167086893-1"
     defaultTheme = "dark"
     [params.logo]
         logoText     = "$ crazyuploader"
-        logoHomeLink = "https://crazyuploader.github.io/"
+        logoHomeLink = "https://blog.devjugal.com/"
 [languages]
     [languages.en]
         subtitle  = ""
@@ -25,7 +25,7 @@ googleAnalytics = "UA-167086893-1"
     [[menu.main]]
         name   = "TIL"
         weight = 5
-        url    = "https://crazyuploader.github.io/TIL"
+        url    = "https://til.devjugal.com"
     [[menu.main]]
         name   = "contact"
         weight = 4

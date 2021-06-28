@@ -1,7 +1,7 @@
 baseURL = "https://blog.devjugal.com/"
 languageCode = "en-us"
 title = "Jugal Kishore"
-theme = "modified-hugo-theme"
+theme = "hello-friend-ng"
 googleAnalytics = "UA-167086893-1"
 
 [params]

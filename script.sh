@@ -9,7 +9,6 @@ YELLOW="\033[1;33m"
 
 # Variables
 HUGO_VERSION="0.84.2"
-GITHUB_REF
 
 # Installing Hugo
 echo ""

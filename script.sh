@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-set -eu
-set -o pipefail
+set -e
 
 # Colors
 NC="\033[0m"

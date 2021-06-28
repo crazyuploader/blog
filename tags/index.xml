@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Jugal Kishore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Junglee Labs</copyright>
-    
-	<atom:link href="https://blog.devjugal.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Junglee Labs</copyright><atom:link href="https://blog.devjugal.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

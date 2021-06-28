@@ -1,36 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blog.devjugal.com/posts/first-post/</loc>
     <lastmod>2020-02-04T14:06:52+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.devjugal.com/</loc>
     <lastmod>2020-02-04T14:06:52+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.devjugal.com/posts/</loc>
     <lastmod>2020-02-04T14:06:52+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.devjugal.com/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.devjugal.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.devjugal.com/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.devjugal.com/tags/</loc>
   </url>
-  
 </urlset>

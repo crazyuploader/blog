@@ -6,7 +6,8 @@ GREEN="\033[1;32m"
 YELLOW="\033[1;33m"
 
 # Variables
-HUGO_VERSION="0.74.2"
+HUGO_VERSION="0.84.2"
+GITHUB_REF
 
 # Installing Hugo
 echo ""
@@ -20,7 +21,7 @@ echo -e "${GREEN}Done!${NC}"
 # Cloning modified theme
 echo ""
 echo -e "${YELLOW}Cloning modified version of Hugo Theme${NC}"
-git clone https://github.com/crazyuploader/modified-hugo-theme themes/modified-hugo-theme
+git clone https://github.com/rhazdon/hugo-theme-hello-friend-ng themes/hello-friend-ng
 echo ""
 echo -e "${GREEN}Done!${NC}"
 

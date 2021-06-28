@@ -16,6 +16,6 @@ blocks:
         - name: GITHUB_SECRET
       env_vars:
         - name: GITHUB_REF
-          value: github.com/crazyuploader/jugalkishore.me.git
+          value: github.com/crazyuploader/blog.git
     skip:
       when: branch = 'master'

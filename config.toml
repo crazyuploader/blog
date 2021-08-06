@@ -44,22 +44,22 @@ googleAnalytics = "UA-167086893-1"
         url    = "/school"
 [[params.social]]
     name = "github"
-    url  = "https://github.com/crazyuploader"
+    url  = "https://out.devjugal.com/github"
 [[params.social]]
     name = "docker"
-    url  = "https://hub.docker.com/u/crazyuploader"
+    url  = "https://out.devjugal.com/dockerhub"
 [[params.social]]
     name = "dev"
-    url  = "https://dev.to/crazyuploader"
+    url  = "https://out.devjugal.com/devto"
 [[params.social]]
     name = "linkedin"
-    url  = "https://linkedin.com/in/crazyuploader/"
+    url  = "https://out.devjugal.com/linkedin"
 [[params.social]]
     name = "facebook"
-    url  = "https://facebook.com/profile.php?id=100051213879144"
+    url  = "https://out.devjugal.com/facebook"
 [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/jugalkishore839"
+    url  = "https://out.devjugal.com/twitter"
 [[params.social]]
     name = "telegram"
-    url  = "https://t.me/crazyuploader"
+    url  = "https://out.devjugal.com/telegram"

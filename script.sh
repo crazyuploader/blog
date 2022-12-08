@@ -6,7 +6,7 @@ GREEN="\033[1;32m"
 YELLOW="\033[1;33m"
 
 # Variables
-HUGO_VERSION="0.84.2"
+HUGO_VERSION="0.108.0"
 
 # Installing Hugo
 echo ""

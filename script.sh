@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -e
 
 # Colors
 NC="\033[0m"

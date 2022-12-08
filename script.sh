@@ -11,7 +11,7 @@ HUGO_VERSION="0.108.0"
 # Installing Hugo
 echo ""
 echo -e "${YELLOW}Installing Hugo Site Generator${NC}"
-curl -sLo hugo.deb https://github.com/gohugoio/hugo/releases/download/v"${HUGO_VERSION}"/hugo_"${HUGO_VERSION}"_Linux-64bit.deb
+curl -sLo hugo.deb https://github.com/gohugoio/hugo/releases/download/v"${HUGO_VERSION}"/hugo_"${HUGO_VERSION}"_linux-amd64.deb
 sudo dpkg -i hugo.deb
 rm -rf hugo.deb
 echo ""

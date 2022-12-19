@@ -41,7 +41,7 @@ googleAnalytics = "UA-167086893-1"
     [[menu.main]]
         name   = "school project"
         weight = 2
-        url    = "/school"
+        url    = "https://school.devjugal.com"
 [[params.social]]
     name = "github"
     url  = "https://out.devjugal.com/github"

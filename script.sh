@@ -35,6 +35,11 @@ echo -e "${YELLOW}Building site with Hugo${NC}"
 hugo -d ~/public
 cd ~/public || exit 1
 
+# Remove School if present
+if [[ -d "school" ]]; then
+    rm -rf school
+fi
+
 # Pushing built to GitHub
 git config user.email "49350241+crazyuploader@users.noreply.github.com"
 git config user.name "crazyuploader"

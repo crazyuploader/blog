@@ -49,6 +49,9 @@ googleAnalytics = "UA-167086893-1"
     name = "docker"
     url  = "https://out.devjugal.com/dockerhub"
 [[params.social]]
+    name = "dev"
+    url  = "https://out.devjugal.com/devto"
+[[params.social]]
     name = "linkedin"
     url  = "https://out.devjugal.com/linkedin"
 [[params.social]]
